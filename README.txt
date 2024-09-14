@@ -1,4 +1,8 @@
 ==================================================================================================
+OWNER CONTACT
+TELEGRAM : @zlaxtert
+SITE : https://darkxcode.site
+==================================================================================================
 ENGLISH LANGUAGE
 
 IF YOU ARE USING A PROXY LIST PLEASE OPEN FILE 'settings.php' in the function folder
